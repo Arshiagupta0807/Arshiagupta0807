@@ -1,6 +1,7 @@
-## Hey there , I'm Arshia
+## Hey there , I'm Arshia 
+-✨ B.Tech IT student at BPIT,IPU
+- 🌱 Currently learning C++, DSA and Web Dev
 
-hiiiii
 <!--
 **Arshiagupta0807/Arshiagupta0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
